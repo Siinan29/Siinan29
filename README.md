@@ -1,4 +1,6 @@
-[![Siinan29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siinan29)](https://github.com/Siinan29/github-readme-stats)
+[![Siinan29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siinan29&show_icons=true&theme=radical)
+
+
 
 <!--
 **Siinan29/Siinan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
